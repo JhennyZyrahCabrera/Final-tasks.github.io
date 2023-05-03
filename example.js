@@ -1,3 +1,0 @@
-function FunctionName (){
-    return value;
-}
